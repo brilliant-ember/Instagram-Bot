@@ -1,5 +1,7 @@
 ###		Note
 ### the program works with the 2018-Augest version of instagram, it may not work if the UI change in the future.
+##Auther: Mohammed
+### URL: https://github.com/brilliant-ember/Instagram-Bot
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
